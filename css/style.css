@@ -1,0 +1,22 @@
+form {
+    width: 500px
+}
+
+body {
+    background-color: #e7e7e7;
+}
+
+h1 {
+    color: #003598;
+
+}
+
+.log a {
+    text-decoration: none;
+    color: #009868;
+}
+
+.log a:hover {
+    text-decoration: underline;
+    color: #003598;
+}
